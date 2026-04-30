@@ -1,10 +1,5 @@
 ## 🛍️ Simple ecommerce cart application 
 
-<p align="center">
-
-  <img src="./readme-banner.png">
-</p>
-
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
 <p align="left">
