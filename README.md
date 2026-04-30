@@ -2,10 +2,7 @@
 
 ## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
 
-<p align="left">
 
-  <img src="./work-in-the-netherlands.png" width="380" height="90">
-</p>
 
 ✈️ [Follow Hedayet Ali](https://www.linkedin.com/in/hadayet-ali-31aab115b/)
 
